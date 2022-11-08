@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/oderlive/reactPhotos.git/static/css/main.85a4daed.css",
+    "main.js": "/oderlive/reactPhotos.git/static/js/main.89b2e72e.js",
+    "index.html": "/oderlive/reactPhotos.git/index.html",
+    "main.85a4daed.css.map": "/oderlive/reactPhotos.git/static/css/main.85a4daed.css.map",
+    "main.89b2e72e.js.map": "/oderlive/reactPhotos.git/static/js/main.89b2e72e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85a4daed.css",
+    "static/js/main.89b2e72e.js"
+  ]
+}
